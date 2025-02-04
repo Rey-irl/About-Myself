@@ -1,11 +1,11 @@
 # About-Myself
 
-👋 # Hi!, I'm Reyna Vargas
-📊 ## Data Analyst |Business Intelligence |Pythin & Machine Learning Enthusiast |Mathematician Engineer
+👋 Hi!, I'm Reyna Vargas
+📊 ##Data Analyst |Business Intelligence |Pythin & Machine Learning Enthusiast |Mathematician Engineer
 
 I'm passionate about transforming raw data into insight that drives decision-making. With 8+ years of experience in data analytics, business intelligence, and forecasting, I specialize in Python, R, SQL, Power BI, Tableau, and machine learning.
 
-🔬 ## Key Projects:
+🔬 Key Projects:
 🚀ENFUSE Project - Developed an NPL-based contract data extraction tool using BERT to automate sustainability reporting.
 🌿 Master's Thesis - Built a CNN-powered model for classifying coffee plant nutritional deficiencies, achieving 99.83% accuracy.
 
