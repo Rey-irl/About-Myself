@@ -1,6 +1,7 @@
 # About-Myself
 
 👋 Hi!, I'm Reyna Vargas
+
 📊 Data Analyst |Business Intelligence |Pythin & Machine Learning Enthusiast |Mathematician Engineer
 
 I'm passionate about transforming raw data into insight that drives decision-making. With 8+ years of experience in data analytics, business intelligence, and forecasting, I specialize in Python, R, SQL, Power BI, Tableau, and machine learning.
